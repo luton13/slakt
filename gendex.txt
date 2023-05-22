@@ -1,0 +1,268 @@
+;; Skapad av MinSläkt 4.7 2023-05-21, (Oregistrerad programkopia)
+;;
+p00000000.html|| //|||||
+pa63fe101.html|| //|||||
+p2d2531e5.html||Anders //|16SEP 1794||||
+p74a99d49.html||Anders //|29MAY 1871||||
+p4cf8c90a.html||Anna Stina //|1797||||
+p39fced2d.html||August //|3JUN 1877|Hurva, Ringsjö (M)|||
+peb5320ab.html||Augusta //|1JUL 1863||||
+p11600d09.html||Bengta //|19AUG 1878||||
+p05faebce.html||Edla Mathilda //|30MAY 1860||||
+p3b5f2b05.html||Ellen Augusta //|1894|Dalby (M)|||
+p77bf9574.html||Elsie //|5AUG 1879||9JAN 1880||
+p5be9bb7b.html||Elsie //|4FEB 1882|Äspinge, Hörby (M)|||
+p612bd3db.html||Gossen Nils //|||||
+p45678497.html||Hilda Paulina //|1892|Dalby (M)|||
+p32ab4f6a.html||Ingrid Viola //|1APR 1930|Västerås (U)|||
+pba0b1742.html||Ingvar Loreng //|8APR 1880||27AUG 1880||
+pa9794b20.html||Ingvard Loreng //|16JUL 1883||20SEP 1883||
+p010d4321.html||Johan //|5AUG 1879|Hurva, Ringsjö (M)|||
+p8d0222a7.html||Johan August //|18APR 1876||28APR 1876||
+pf0ee7446.html||Johanna //|1890|Äspinge, Hörby (M)|||
+p24a7e3f2.html||Johannes August //|31OCT 1874||12MAY 1875||
+pc33f5985.html||Maria //|9AUG 1869||||
+pcdf3cd89.html||Sophie //|15MAY 1884||12JAN 1947|Äspinge, Hörby (M)|
+p2033fef6.html|Andersdotter|Anna Maja /Andersdotter/|14DEC 1822||||
+p9a5d0e01.html|Andersdotter|Bengta /Andersdotter/|10JUN 1776|Äsphult (L)|15MAY 1840||
+pbd8d1370.html|Andersdotter|Brita /Andersdotter/|27FEB 1818||||
+p7d0e6e4b.html|Andersdotter|Catharina /Andersdotter/|6AUG 1823||||
+p018c0003.html|Andersdotter|Elna /Andersdotter/|||||
+p83c3b070.html|Andersdotter|Elna /Andersdotter/|2OCT 1767||||
+pd8b6ba1f.html|Andersdotter|Elna /Andersdotter/|8FEB 1800|Benarp, Äspinge, Hörby (M)|||
+pa16d8540.html|Andersdotter|Else /Andersdotter/|26JUN 1791|Benarp, Äspinge, Hörby (M)|26JAN 1834||
+pd0a55e1c.html|Andersdotter|Gertrud /Andersdotter/|22APR 1778||||
+pc45c7860.html|Andersdotter|Hanna /Andersdotter/|8NOV 1849||||
+pdcbf64b5.html|Andersdotter|Johanna /Andersdotter/|26NOV 1825|Årdala (D)|||
+p3434c345.html|Andersdotter|Karin /Andersdotter/|17JUN 1774||||
+pe15acbd9.html|Andersdotter|Laurentia /Andersdotter/|6APR 1783||||
+p450e676b.html|Andersdotter|Maria /Andersdotter/|28DEC 1854||||
+pbebda361.html|Andersdotter|Stina /Andersdotter/|23JAN 1816||||
+p292d9cbf.html|Andersson|Anders /Andersson/|20SEP 1821||||
+pcffb9925.html|Andersson|Anders /Andersson/|4NOV 1845||||
+p31bf8759.html|Andersson|Bengt /Andersson/|26FEB 1776|Hjärup, Uppåkra (M)|13FEB 1830|Hjerup nr 4, Hjärup, Uppåkra (M)|
+p67a84c69.html|Andersson|Bengt /Andersson/|8DEC 1841||||
+pd7ab1587.html|Andersson|Christopher /Andersson/|0||||
+p1d84ace2.html|Andersson|Christopher /Andersson/|3MAY 1766||||
+pa885d19b.html|Andersson|Hans /Andersson/|1JAN 1848|Hjerup nr 4, Hjärup, Uppåkra (M)|25APR 1918|Reslöv (M)|
+pebafe1d1.html|Andersson|Johan /Andersson/|1OCT 1832||||
+p8d9076ca.html|Andersson|Jöns /Andersson/|26OCT 1765|Kårestad, Västra Vram (L)|22MAY 1821||
+p50ef5781.html|Andersson|Lars /Andersson/|||||
+p5334cdee.html|Andersson|Mårten /Andersson/|4FEB 1781||||
+p1bf691d4.html|Andersson|Nils /Andersson/|||||
+pbbd1e4e4.html|Andersson|Nils /Andersson/|7FEB 1844||23JUN 1848||
+pbb4a845f.html|Andersson|Nils /Andersson/|16JUL 1852||||
+pc32ba6d8.html|Bengtsdotter|Anna /Bengtsdotter/|24JUL 1851|Hurva, Ringsjö (M)|||
+pcac006a2.html|Bengtsdotter|Anna /Bengtsdotter/|1SEP 1855||||
+p6f346010.html|Bengtsdotter|Bengta /Bengtsdotter/|2MAY 1830||||
+pf6152266.html|Bengtsdotter|Boel /Bengtsdotter/|3MAR 1817||||
+p6243df4b.html|Bengtsdotter|Elna /Bengtsdotter/|22FEB 1840|Hammarlunda (M)|||
+p0139bd37.html|Bengtsdotter|Elna /Bengtsdotter/|16SEP 1853|Högestorp nr 10, Reslöv (M)|FEB 1919|Reslöv (M)|
+p5b57396d.html|Bengtsdotter|Else /Bengtsdotter/|||||
+pbd6a6e7d.html|Bengtsdotter|Else /Bengtsdotter/|18JUL 1823||||
+p37fdc566.html|Bengtsdotter|Ingar /Bengtsdotter/|21AUG 1790|V. Ströö|||
+pf0d0721d.html|Bengtsdotter|Kersti /Bengtsdotter/|7MAY 1843|Hurva, Ringsjö (M)|||
+p49272a99.html|Bengtsdotter|Marna /Bengtsdotter/|9JUL 1827||||
+pa98384dd.html|Bengtsson|Anders /Bengtsson/|21JAN 1739|Hjärup, Uppåkra (M)|||
+pd81120d3.html|Bengtsson|Anders /Bengtsson/|13JUL 1789|Årdala (D)|||
+pebcc5543.html|Bengtsson|Anders /Bengtsson/|28AUG 1812||||
+pcdcca419.html|Bengtsson|Anders /Bengtsson/|28AUG 1812|Hjärup, Uppåkra (M)|16JUL 1858|Hjerup nr 4, Hjärup, Uppåkra (M)|
+p760ab6d2.html|Bengtsson|Bengt /Bengtsson/|||||
+pebf7bcca.html|Bengtsson|Hans /Bengtsson/|30AUG 1821||||
+p66be3713.html|Bengtsson|Jöns /Bengtsson/|31JUL 1854|Hurva, Ringsjö (M)|||
+pabc5b145.html|Bengtsson|Nils /Bengtsson/|23MAY 1796|Äspinge, Hörby (M)|28FEB 1885|Stavröd nr 4, Stavröd, Hörby (M)|
+peb1a6f68.html|Bengtsson|Nils /Bengtsson/|12NOV 1814||||
+p5c51271d.html|Bengtsson|Pehr /Bengtsson/|30NOV 1845|Hurva, Ringsjö (M)|5JUN 1929|Äspinge, Hörby (M)|
+p3ecb7616.html|Bengtsson|Åke /Bengtsson/|26SEP 1848|Hurva, Ringsjö (M)|||
+p04c7e2ce.html|Christophersdotter|Elsa /Christophersdotter/|14OCT 1744|Stora Uppåkra (M)|||
+p3b1d05bf.html|Endotter|Brita /Endotter/|25FEB 1750||||
+p07ee5232.html|Espendotter|Boel /Espendotter/|16DEC 1757|Stora Råby (M)|26MAY 1818|Winstorp, Lomma (M)|
+p4cf4781d.html|Filipsson|Anna Sophia /Filipsson/|13MAR 1859|Risinge (E)|||
+p1d99bd09.html|Filipsson|Kristina Vilhelmina /Filipsson/|DEC 1855|Risinge (E)|26JUL 1922||
+p16ac4671.html|Filipsson|Per Gustaf /Filipsson/|27APR 1857|Risinge (E)|||
+p2b5587e4.html|Gunnarsdoter|Sissa /Gunnarsdoter/|1776||||
+p6b09365f.html|Gunnarsdotter|Karna /Gunnarsdotter/|1785||||
+p09dae99d.html|Gunnarsson|Hans /Gunnarsson/|14FEB 1793|Winstorp nr 7, Lomma (M)|17MAR 1859|Lomma (M)|
+p802a16d8.html|Göransdotter|Boel /Göransdotter/|||||
+p7cd4d29a.html|Hansdotter|Bengta /Hansdotter/|8APR 1824|Lomma (M)|12DEC 1874|Hjärup, Uppåkra (M)|
+p05276d9a.html|Hansdotter|Boel /Hansdotter/|12MAR 1826||||
+p77b233c6.html|Hansdotter|Hanna /Hansdotter/|25DEC 1792|Bjellerup|16FEB 1841|Hjerup nr 4, Hjärup, Uppåkra (M)|
+p9b01b416.html|Hansdotter|Helena /Hansdotter/|6FEB 1832||30MAY 1836||
+p666659a2.html|Hansson|Alma Ingeborg /Hansson/|8MAY 1886||26OCT 1959|Reslöv (M)|
+p2bb8b63f.html|Hansson|Anders Erik /Hansson/|26APR 1983|Helsingborg (M)|||
+pf7c1558c.html|Hansson|Anna Maria /Hansson/|1JAN 1878||||
+p852fffc1.html|Hansson|Bengt Erik Lennart /Hansson/|5DEC 1944||||
+pa3fcf957.html|Hansson|Betty Maria /Hansson/|23MAR 1880||||
+p79e0ea54.html|Hansson|Bo Anders Christer /Hansson/|8JUL 1959||||
+pd177d065.html|Hansson|Bror Anders /Hansson/|18MAY 1888||17SEP 1948|Östra Karaby (M)|
+p1354f079.html|Hansson|Christina /Hansson/|8JAN 1882||7JAN 1944||
+p108caa76.html|Hansson|Elin Ingrid /Hansson/|1DEC 1985||||
+p96428b63.html|Hansson|Elsa Ingeborg /Hansson/|3OCT 1920||||
+p08762cde.html|Hansson|Elsa Ulla-Britt /Hansson/|10MAR 1943|Landskrona (M)|||
+p2f39e32a.html|Hansson|Ester Julia /Hansson/|1JUL 1896||21APR 1921||
+p650f514e.html|Hansson|Eva Ingrid /Hansson/|31AUG 1987||||
+pdf87a79b.html|Hansson|Gunnar /Hansson/|21SEP 1743||21SEP 1801||
+p56906deb.html|Hansson|Gunnar /Hansson/|13OCT 1819||||
+pa01c7fc8.html|Hansson|Hans Gustav Eric /Hansson/|19JUL 1918|Reslöv (M)|1MAY 2005||
+pa045a351.html|Hansson|Hilda /Hansson/|4JUN 1884||||
+pf8b9d8cb.html|Hansson|Hulda Henrietta /Hansson/|6OCT 1895||4APR 1971|Malmö (M)|
+pc5c41f26.html|Hansson|Kerstin Margareta /Hansson/|7DEC 1945||26SEP 1992|Brändbo, Bjuråker (X)|
+p805cf4e1.html|Hansson|Lars-Eric Ingvar /Hansson/|9NOV 1948||||
+p8d4c2c91.html|Hansson|Nils /Hansson/|14JUL 1821||27JUL 1822||
+p6402f75e.html|Hansson|Ola /Hansson/|||||
+p30d90a59.html|Hansson|Per Erik Magnus /Hansson/|30SEP 1967||||
+p7c5be27e.html|Hansson|Pål Bernhard /Hansson/|7OCT 1890|Sibbarp Nr 1, Reslöv (M)|21FEB 1966|Reslöv (M)|
+p866e1536.html|Hansson|Sven /Hansson/|14MAR 1829||||
+pfd636fe0.html|Hansson|Sven Erik /Hansson/|9FEB 1942||||
+pf3c027bf.html|Håkansdotter|Anna /Håkansdotter/|21JUN 1852|Ströö|9APR 1927|Äspinge, Hörby (M)|
+pc85f6035.html|Håkansdotter|Johanna /Håkansdotter/|5FEB 1859||||
+p0ab41ba1.html|Håkansdotter|Maria? /Håkansdotter/|12NOV 1850|Bosarp nr 6, Bosarp, Östra Onsjö (M)|||
+pdbf72687.html|Håkansdotter|Marna /Håkansdotter/|5JUN 1765|Lönhult nr 5, Brösarp (L)|||
+p4c17c877.html|Håkansson|Nils /Håkansson/|15JUN 1856||3MAR 1858||
+p29800eef.html|Håkansson|Nils /Håkansson/|9JUN 1862||9MAR 1881||
+p848ba878.html|Håkansson|Pehr /Håkansson/|28SEP 1854||||
+p47cd4125.html|Jansdotter|Stina /Jansdotter/|16MAR 1786|Stora Sumpstugan, Lunda (D)|||
+p98cc1399.html|Jepps|Nils /Jepps/|||7JUN 1812|Högestorp, Reslöv (M)|
+p65529d31.html|Jeppsdotter|Hanna /Jeppsdotter/|23DEC 1833|Reslöv (M)|||
+pf25e47d7.html|Jeppsson|Anders /Jeppsson/|12FEB 1829||||
+p917a79bf.html|Jeppsson|Anna /Jeppsson/|30JAN 1839||||
+pacdb6fad.html|Jeppsson|Johannes /Jeppsson/|27DEC 1845||||
+pb057553a.html|Jeppsson|Jöns /Jeppsson/|19JUL 1831||||
+pc6709643.html|Jeppsson|Nils /Jeppsson/|10APR 1827||||
+pe6233eef.html|Jeppsson|Pål /Jeppsson/|6MAY 1836||||
+p5266c532.html|Johansdotter|Hanna /Johansdotter/|13MAR 1867||28AUG 1889|Yngsjö, Åhus (L)|
+p9a77e0f0.html|Jonsdotter|Stina /Jonsdotter/|15JUL 1789|Årdala (D)|||
+p4421a8f1.html|Jönsdotter|Anna /Jönsdotter/|20AUG 1773|Dagstorp (M)|1831||
+pd6d8c70d.html|Jönsdotter|Anna /Jönsdotter/|1808||||
+p7a081248.html|Jönsdotter|Bengta /Jönsdotter/|||||
+p3e947ab6.html|Jönsdotter|Hanna /Jönsdotter/|14NOV 1753||||
+p9fd18516.html|Jönsdotter|Pernilla /Jönsdotter/|17MAR 1784|Källs Nöbbelöv (M)|||
+p244dc8f0.html|Jönsdotter|Ulrika /Jönsdotter/|||||
+pc06dcdd2.html|Jönsson|Anders /Jönsson/|13OCT 1812|Kårestad, Västra Vram (L)|||
+paa6c792a.html|Jönsson|Bengt /Jönsson/|2SEP 1767|Äspinge, Hörby (M)|25MAR 1825||
+pe5d3f3c3.html|Jönsson|Bengt /Jönsson/|2DEC 1804|Kårestad, Västra Vram (L)|||
+pc0864aff.html|Jönsson|Hans /Jönsson/|||||
+p9a7eb33e.html|Jönsson|Jöns /Jönsson/|||||
+p18f39c33.html|Jönsson|Måns /Jönsson/|20APR 1816|Kårestad, Västra Vram (L)|11JAN 1892|Satserup nr 3, Äspinge, Hörby (M)|
+pb633b15b.html|Jönsson|Nils /Jönsson/|14MAR 1774|Reslöv (M)|||
+p28aec0a4.html|Jönsson|Nils /Jönsson/|28APR 1786|Lökaröd Nr 2, Brösarp (L)|29JAN 1856||
+p06710037.html|Jönsson|Nils /Jönsson/|3MAR 1810|Kårestad, Västra Vram (L)|||
+pc90d3de1.html|Jönsson|Ola /Jönsson/|1OCT 1820||||
+p21649764.html|Jönsson|Per /Jönsson/|30JAN 1807|Kårestad, Västra Vram (L)|||
+p542e8355.html|Kristoffersdotter|Ingar /Kristoffersdotter/|||||
+p4ed3ec77.html|Lagerstam|Anna Vilhelmina /Lagerstam/|29DEC 1878|Vrena (D)|||
+pff24f628.html|Lagerstam|Emil Hjalmar /Lagerstam/|20SEP 1880|Vrena (D)|||
+p8e4417ec.html|Lagerstam|Ernst Arvid /Lagerstam/|12FEB 1883|Nikolai, Stockholm (AB)|17FEB 1966|Huddinge (AB)|
+pf053d414.html|Lagerstam|Ester Adelina /Lagerstam/|24DEC 1891|Bergshammar (D)|20AUG 1979|Kävlinge (M)|
+pb38a0587.html|Lagerstam|Hulda Julia /Lagerstam/|16FEB 1888|Allhelgona (E)|6SEP 1894|Torsåker (C)|
+p21aebbe5.html|Lagerstam|Karl-Gustaf /Lagerstam/|21FEB 1858|Hafsvik, Vrena (D)|||
+p6c891dd8.html|Lagerstam|Karl Konrad /Lagerstam/|20SEP 1890|Allhelgona (E)|||
+p83fe6c19.html|Lars|Anders /Lars/|||||
+p485a59b7.html|Larsson|Estved /Larsson/|1842||||
+p156da3a8.html|Liten|Anders /Liten/|||||
+p0fa635f5.html|Löfström|Hanna Maria Cecilia /Löfström/|18APR 1900|Norrvidinge (M)|21MAR 1981|Dalby (M)|
+p64ea8bcf.html|Löfström|Nils /Löfström/|1872|Västra Sallerup (M)|||
+pbdd49a63.html|Magnus|Nils /Magnus/|1896|Dalby (M)|||
+p95e1539c.html|Målberg|Arne /Målberg/|4NOV 1930|Västerås (U)|||
+p179918e6.html|Målberg|Jan Christer /Målberg/|16FEB 1952|Västerås (U)|||
+p1c66927f.html|Målberg|Yvonne Ingrid /Målberg/|27SEP 1954|Västerås (U)|||
+pb0f65554.html|Månsdotter|Anna /Månsdotter/|30AUG 1830|Jonsberg (E)|||
+p84262e40.html|Månsdotter|Anna /Månsdotter/|30NOV 1850||2DEC 1863||
+pce7ce900.html|Månsdotter|Anna /Månsdotter/|18MAR 1865||||
+pdd64e356.html|Månsdotter|Bengta /Månsdotter/|4NOV 1844|Äspinge, Hörby (M)|5MAY 1908||
+p6779be5a.html|Månsdotter|Hanna /Månsdotter/|24JAN 1855||||
+p03959c7a.html|Månsson|Anders /Månsson/|15OCT 1851||||
+p4484a3cc.html|Månsson|Håkan /Månsson/|1732||||
+p44a605e2.html|Månsson|Jöns /Månsson/|20AUG 1748|Lökaröd Nr 2, Brösarp (L)|7MAY 1804||
+pab1f5cad.html|Månsson|Jöns /Månsson/|8JAN 1847||1930||
+p703e63ac.html|Månsson|Nils /Månsson/|3MAY 1796||||
+p490e8d39.html|Månsson|Nils /Månsson/|22JAN 1849||||
+p6c91dbc5.html|Mårtensdotter|Boel /Mårtensdotter/|17NOV 1823|Satserup, Äspinge, Hörby (M)|||
+pf5f68a8e.html|Mårtensson|Göran /Mårtensson/|||||
+p1113e275.html|Mårtensson|Pehr /Mårtensson/|||||
+p5e532c4a.html|Nilsdotter|Anna /Nilsdotter/|30NOV 1840||||
+pab8119c3.html|Nilsdotter|Bengta /Nilsdotter/|2AUG 1828||||
+pdf19f04c.html|Nilsdotter|Bengta /Nilsdotter/|16JUL 1858||||
+p93c325ab.html|Nilsdotter|Boel /Nilsdotter/|14NOV 1838||||
+pd04dfd6d.html|Nilsdotter|Ellna /Nilsdotter/|20OCT 1796||||
+p438e299e.html|Nilsdotter|Else /Nilsdotter/|31DEC 1759|Äspinge, Hörby (M)|||
+p5194229c.html|Nilsdotter|Hanna /Nilsdotter/|1APR 1785||10MAR 1786||
+p2f437b5d.html|Nilsdotter|Hanna /Nilsdotter/|13MAR 1789|Torpet Snugge, Smedstorp (L)|||
+p65e759db.html|Nilsdotter|Hanna /Nilsdotter/|24MAY 1805||||
+p83409904.html|Nilsdotter|Hanna /Nilsdotter/|15FEB 1822|Bosarps mölla, Brösarp (L)|24FEB 1894|Hurva nr 2, Hurva, Ringsjö (M)|
+p8d291779.html|Nilsdotter|Hanna /Nilsdotter/|9JUN 1827|Stavröd, Hörby (M)|||
+p6eee73c6.html|Nilsdotter|Kjerstina /Nilsdotter/|20OCT 1808|Reslöv (M)|||
+pc7983844.html|Nilsdotter|Malena /Nilsdotter/|28MAY 1749||28MAY 1787||
+p037ec5e7.html|Nilsdotter|Pernilla /Nilsdotter/|7DEC 1786||||
+paba23559.html|Nilsson|Anders /Nilsson/|22JUN 1787||||
+p1fd99686.html|Nilsson|Bengt /Nilsson/|||||
+p734a53ea.html|Nilsson|Bengt /Nilsson/|11DEC 1791||14DEC 1791||
+pd988ecdc.html|Nilsson|Bengt /Nilsson/|9DEC 1832||||
+p959e4f2e.html|Nilsson|Jan /Nilsson/|||||
+p0a051d67.html|Nilsson|Jeppa /Nilsson/|29DEC 1801|Reslöv (M)|||
+p76496459.html|Nilsson|Jöns /Nilsson/|11FEB 1751||2MAR 1801||
+pb7d0f6e2.html|Nilsson|Jöns /Nilsson/|8AUG 1808||||
+p06b38e2a.html|Nilsson|Karl-Ola /Nilsson/|||||
+p484efdcb.html|Nilsson|Ola /Nilsson/|31AUG 1833|Äspinge, Hörby (M)|27MAR 1921|Äspinge, Hörby (M)|
+paa8168e8.html|Ohlsson|Åke /Ohlsson/|||||
+p61f8ef71.html|Olsdotter|Bengta /Olsdotter/|14JAN 1872||||
+peaf30930.html|Olsdotter|Else /Olsdotter/|22SEP 1819||7MAR 1842||
+pbc16408a.html|Olsdotter|Ingar /Olsdotter/|||||
+p700b9a3d.html|Olsdotter|Johanna /Olsdotter/|19OCT 1824|Tosterup (L)|||
+p98af675d.html|Olsdotter|Sissa /Olsdotter/|26AUG 1776||||
+p801a22d5.html|Olsson|Anders /Olsson/|19NOV 1820|Tosterup (L)|||
+p453dc180.html|Olsson|Anna-Greta /Olsson/|22APR 1920||22JAN 1969||
+p738a9881.html|Olsson|Bertil /Olsson/|10APR 1916||29DEC 1965|Höganäs (M)|
+p0c48f814.html|Olsson|Elsa /Olsson/|1JUN 1925||27MAY 1948||
+p650b520e.html|Olsson|Håkan /Olsson/|15JUN 1818|Greflunda, Vitaby, Kivik (L)|2NOV 1882|Hurva nr 1, Hurva, Ringsjö (M)|
+p647c9212.html|Olsson|Ivan /Olsson/|19JUL 1926||||
+p523bd4b3.html|Olsson|Joel /Olsson/|18MAR 1918||13JAN 1928||
+pd5407c26.html|Olsson|Johan /Olsson/|17JUN 1832|Bosarp, Östra Onsjö (M)|||
+p1f4576c8.html|Olsson|Knut /Olsson/|20DEC 1921||||
+pf0f1abca.html|Olsson|Måns /Olsson/|20APR 1879||||
+p94b13222.html|Olsson|Nils /Olsson/|17OCT 1870||||
+p573d5d6d.html|Olsson|Olof /Olsson/|18APR 1887|Espinge nr 15, Äspinge, Hörby (M)|1JUL 1953|Lyby (M)|
+pba18b07a.html|Olsson|Pehr /Olsson/|19MAR 1764|Brösarp (L)|8MAY 1825|Brösarp (L)|
+p883f21b9.html|Olsson|Pehr /Olsson/|1FEB 1827|Bosarp, Östra Onsjö (M)|1829||
+p995fa99c.html|Olsson|Pehr /Olsson/|2JUN 1830|Bosarp, Östra Onsjö (M)|||
+p4827259d.html|Olsson|Signe Berta /Olsson/|11FEB 1924|Äspinge, Hörby (M)|19FEB 1977|Norrvidinge (M)|
+p009aaec2.html|Pehrsdotter|Anna /Pehrsdotter/|25FEB 1786|Myrestad, Brösarp (L)|10MAR 1839||
+pb45092d2.html|Pehrsdotter|Bengta /Pehrsdotter/|22JUL 1759|Lökaröd, Brösarp (L)|28SEP 1793||
+p9a428e5b.html|Pehrsdotter|Bengta /Pehrsdotter/|1796|Lomma (M)|31JAN 1822||
+p26418b92.html|Pehrsdotter|Elna /Pehrsdotter/|||||
+p91662840.html|Pehrsson|Pehr /Pehrsson/|10NOV 1754||20SEP 1831||
+p9032b2e2.html|Pehrsson|Åke /Pehrsson/|||||
+pbf850c7e.html|Persdotter|Mätta /Persdotter/|0|Torrasteröd, Brösarp (L)|||
+p1f637a2c.html|Persson|Charlotte /Persson/|12MAY 1888|Rosentorp. Äspinge, Hörby (M)|20AUG 1969|Hörby (M)|
+p456cdc0a.html|Persson|Nils /Persson/|21JUN 1763|Lomma (M)|26MAY 1818||
+p158ccd24.html|Persson|Ola /Persson/|11SEP 1791|Glemminge, (M)|||
+p7bf7839c.html|Persson|Åke /Persson/|1866|Hardeberga (M)|||
+p8dbb4867.html|Petersdotter|Anna Maria /Petersdotter/|23JUN 1829||||
+pa5893e68.html|Petersson|Anders Gustaf /Petersson/|5APR 1819|Vrena (D)|||
+p3131b4b5.html|Philipsson|Peter Aron /Philipsson/|5DEC 1829|Ringarum (E)|||
+pf77c9725.html|Påhlsdotter|Bengta /Påhlsdotter/|14FEB 1819||||
+p9c84f235.html|Påhlsdotter|Elna /Påhlsdotter/|15SEP 1826||||
+pfe1a1c89.html|Påhlsdotter|Hanna /Påhlsdotter/|13JAN 1824||||
+pb57a28f8.html|Påhlsdotter|Kjerstina /Påhlsdotter/|15SEP 1826||9FEB 1827||
+pb19c3814.html|Påhlsdotter|Kjerstina /Påhlsdotter/|31OCT 1829||||
+pd0e71b6e.html|Påhlsson|Bengt /Påhlsson/|29JUL 1821|Reslöv (M)|||
+pd70e7317.html|Påhlsson|Sven /Påhlsson/|||||
+p286c8781.html|Påhlsson|Sven /Påhlsson/|7MAR 1817||||
+pe568af76.html|Pålsdotter|Kersti /Pålsdotter/|1873|Dalby (M)|||
+pf1f528cc.html|Svensdotter|Anna /Svensdotter/|1SEP 1812||||
+pdc05b70f.html|Svensdotter|Else /Svensdotter/|25AUG 1814|Bjärröds ladugård, Kärrstorp (M)|19MAR 1873|Hurva nr 7, Hurva, Ringsjö (M)|
+p7471439f.html|Svensdotter|Malena /Svensdotter/|27DEC 1794|Tågarp, Sireköpinge (D)|||
+p19bc89eb.html|Svensson|Johan /Svensson/|4MAY 1806||||
+p224e604c.html|Svensson|Lars /Svensson/|17SEP 1824|Staffanstorp, S:t Staffan (M)|||
+pb0296fa1.html|Svensson|Ola /Svensson/|12MAR 1810||||
+pb79ac77b.html|Svensson|Pehr /Svensson/|4MAR 1804||||
+p75b48afe.html|Svensson|Påhl /Svensson/|9JAN 1779|V. Ströö|||
+pa204e877.html|Trulsdotter|Gertrud /Trulsdotter/|1753||7MAR 1812||
+pd8e27fec.html|Trulsdotter|Hanna /Trulsdotter/|0||8JAN 1808||
+p7199b621.html|Veberg|Sven /Veberg/|24NOV 1779|Vollsjö (M)|||
+p92ad8175.html|Wiss|Peter /Wiss/|4AUG 1792|Wantstugan, Bettna (D)|||
+p9322e760.html|Åkasdotter|Boel /Åkasdotter/|||||
+pfdac6e5f.html|Åkasdotter|Boel /Åkasdotter/|||||
+p53f4fdb3.html|Åkesson|Bengt /Åkesson/|3MAR 1813|Harlösa (M)|18NOV 1893|Hurva nr 7, Hurva, Ringsjö (M)|
+pdb1143a3.html|Åkesson|Karl Otto /Åkesson/|5DEC 1898|Dalby (M)|14APR 1981|Dalby (M)|
+p21bd6221.html|Åkesson|Mårten /Åkesson/|24JUN 1785|Satserup nr 3, Äspinge, Hörby (M)|6JUN 1850||
